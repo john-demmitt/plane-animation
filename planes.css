@@ -1,0 +1,364 @@
+html,
+body {
+    height: 100%;
+    width100% margin: 0 0;
+}
+
+.container {
+    height: 100%;
+}
+
+svg {
+    height: 100%;
+    width: 100%;
+}
+
+.skybg {
+    position: relative;
+    height: 100vh;
+    width: auto;
+    overflow: hidden;
+}
+
+@keyframes aniPlaneA {
+    0% {
+        opacity: 0;
+    }
+
+    0.1%,
+    1.7% {
+        opacity: 1;
+    }
+
+    1.8% {
+        opacity: 0;
+    }
+}
+
+.A-1 {
+    opacity: 0;
+    animation: aniPlaneA 27s linear 0s infinite forwards;
+}
+
+.A-2 {
+    opacity: 0;
+    animation: aniPlaneA 27s linear 0.5s infinite forwards;
+}
+
+.A-3 {
+    opacity: 0;
+    animation: aniPlaneA 27s linear 1s infinite forwards;
+}
+
+.A-4 {
+    opacity: 0;
+    animation: aniPlaneA 27s linear 1.5s infinite forwards;
+}
+
+.A-5 {
+    opacity: 0;
+    animation: aniPlaneA 27s linear 2s infinite forwards;
+}
+
+.A-6 {
+    opacity: 0;
+    animation: aniPlaneA 27s linear 2.5s infinite forwards;
+}
+
+.A-7 {
+    opacity: 0;
+    animation: aniPlaneA 27s linear 3s infinite forwards;
+}
+
+.A-8 {
+    opacity: 0;
+    animation: aniPlaneA 27s linear 3.5s infinite forwards;
+}
+
+.A-9 {
+    opacity: 0;
+    animation: aniPlaneA 27s linear 4s infinite forwards;
+}
+
+.A-10 {
+    opacity: 0;
+    animation: aniPlaneA 27s linear 4.5s infinite forwards;
+}
+
+.A-11 {
+    opacity: 0;
+    animation: aniPlaneA 27s linear 5s infinite forwards;
+}
+
+.A-12 {
+    opacity: 0;
+    animation: aniPlaneA 27s linear 5.5s infinite forwards;
+}
+
+.A-13 {
+    opacity: 0;
+    animation: aniPlaneA 27s linear 6s infinite forwards;
+}
+
+.A-14 {
+    opacity: 0;
+    animation: aniPlaneA 27s linear 6.5s infinite forwards;
+}
+
+.A-15 {
+    opacity: 0;
+    animation: aniPlaneA 27s linear 7s infinite forwards;
+}
+
+.A-16 {
+    opacity: 0;
+    animation: aniPlaneA 27s linear 7.5s infinite forwards;
+}
+
+.A-17 {
+    opacity: 0;
+    animation: aniPlaneA 27s linear 8s infinite forwards;
+}
+
+.A-18 {
+    opacity: 0;
+    animation: aniPlaneA 27s linear 8.5s infinite forwards;
+}
+
+@keyframes aniPlaneB {
+    0% {
+        opacity: 0;
+    }
+    1% {
+        opacity: 1;
+    }
+    5% {
+        opacity: 0.8;
+    }
+    6% {
+        opacity: 0;
+    }
+}
+
+.B-1 {
+    opacity: 0;
+    animation: aniPlaneB 72s linear 2s infinite forwards;
+}
+
+.B-2 {
+    opacity: 0;
+    animation: aniPlaneB 72s linear 6s infinite forwards;
+}
+
+.B-3 {
+    opacity: 0;
+    animation: aniPlaneB 72s linear 10s infinite forwards;
+}
+
+.B-4 {
+    opacity: 0;
+    animation: aniPlaneB 72s linear 14s infinite forwards;
+}
+
+.B-5 {
+    opacity: 0;
+    animation: aniPlaneB 72s linear 18s infinite forwards;
+}
+
+.B-6 {
+    opacity: 0;
+    animation: aniPlaneB 72s linear 22s infinite forwards;
+}
+
+.B-7 {
+    opacity: 0;
+    animation: aniPlaneB 72s linear 26s infinite forwards;
+}
+
+.B-8 {
+    opacity: 0;
+    animation: aniPlaneB 72s linear 30s infinite forwards;
+}
+
+.B-9 {
+    opacity: 0;
+    animation: aniPlaneB 72s linear 34s infinite forwards;
+}
+
+@keyframes aniPlaneC {
+    0% {
+        opacity: 0;
+    }
+    1% {
+        opacity: 1;
+    }
+    2% {
+        opacity: 0;
+    }
+}
+
+.C-1 {
+    opacity: 0;
+    animation: aniPlaneC 54s linear 3s infinite forwards;
+}
+
+.C-2 {
+    opacity: 0;
+    animation: aniPlaneC 54s linear 6s infinite forwards;
+}
+
+.C-3 {
+    opacity: 0;
+    animation: aniPlaneC 54s linear 9s infinite forwards;
+}
+
+.C-4 {
+    opacity: 0;
+    animation: aniPlaneC 54s linear 12s infinite forwards;
+}
+
+.C-5 {
+    opacity: 0;
+    animation: aniPlaneC 54s linear 15s infinite forwards;
+}
+
+.C-6 {
+    opacity: 0;
+    animation: aniPlaneC 54s linear 18s infinite forwards;
+}
+
+.C-7 {
+    opacity: 0;
+    animation: aniPlaneC 54s linear 21s infinite forwards;
+}
+
+.C-8 {
+    opacity: 0;
+    animation: aniPlaneC 54s linear 24s infinite forwards;
+}
+
+.C-9 {
+    opacity: 0;
+    animation: aniPlaneC 54s linear 27s infinite forwards;
+}
+
+@keyframes aniPlaneD {
+    0% {
+        opacity: 0;
+    }
+    .5%,
+    10.5% {
+        opacity: 1;
+    }
+    11% {
+        opacity: 0;
+    }
+}
+
+.D-1 {
+    opacity: 0;
+    animation: aniPlaneD 27s linear 0s infinite forwards;
+}
+
+.D-2 {
+    opacity: 0;
+    animation: aniPlaneD 27s linear 2500ms infinite forwards;
+}
+
+.D-3 {
+    opacity: 0;
+    animation: aniPlaneD 27s linear 5000ms infinite forwards;
+}
+
+.D-4 {
+    opacity: 0;
+    animation: aniPlaneD 27s linear 7500ms infinite forwards;
+}
+
+.D-5 {
+    opacity: 0;
+    animation: aniPlaneD 27s linear 10s infinite forwards;
+}
+
+.D-6 {
+    opacity: 0;
+    animation: aniPlaneD 27s linear 12.5s infinite forwards;
+}
+
+.D-7 {
+    opacity: 0;
+    animation: aniPlaneD 27s linear 15s infinite forwards;
+}
+
+.D-8 {
+    opacity: 0;
+    animation: aniPlaneD 27s linear 17.5s infinite forwards;
+}
+
+.D-9 {
+    opacity: 0;
+    animation: aniPlaneD 27s linear 20s infinite forwards;
+}
+
+@keyframes aniPlaneE {
+    0% {
+        opacity: 0;
+    }
+    97% {
+        opacity: 0;
+    }
+    98% {
+        opacity: 1;
+    }
+    99% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+.E-1 {
+    opacity: 0;
+    animation: aniPlaneE 60s linear 0s infinite forwards;
+}
+
+.E-2 {
+    opacity: 0;
+    animation: aniPlaneE 60s linear 1s infinite forwards;
+}
+
+.E-3 {
+    opacity: 0;
+    animation: aniPlaneE 60s linear 2s infinite forwards;
+}
+
+.E-4 {
+    opacity: 0;
+    animation: aniPlaneE 60s linear 3s infinite forwards;
+}
+
+.E-5 {
+    opacity: 0;
+    animation: aniPlaneE 60s linear 4s infinite forwards;
+}
+
+.E-6 {
+    opacity: 0;
+    animation: aniPlaneE 60s linear 5s infinite forwards;
+}
+
+.E-7 {
+    opacity: 0;
+    animation: aniPlaneE 60s linear 6s infinite forwards;
+}
+
+.E-8 {
+    opacity: 0;
+    animation: aniPlaneE 60s linear 7s infinite forwards;
+}
+
+.E-9 {
+    opacity: 0;
+    animation: aniPlaneE 60s linear 8s infinite forwards;
+}

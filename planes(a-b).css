@@ -1,0 +1,131 @@
+.skybg {
+  position:relative;
+
+  height:100%;
+    width:100%;
+}
+
+
+.A-1 {
+    opacity:0;
+  animation:  aniPlaneA 72s linear 2s infinite forwards;
+}
+
+.A-2 {
+    opacity: 0;
+    animation: aniPlaneA 72s linear 8s infinite forwards;
+}
+
+.A-3 {
+    opacity: 0;
+    animation: aniPlaneA 72s linear 16s infinite forwards;
+}
+
+.A-4 {
+    opacity: 0;
+    animation: aniPlaneA 72s linear 24s infinite forwards;
+}
+
+.A-5 {
+    opacity: 0;
+    animation: aniPlaneA 72s linear 34s infinite forwards;
+}
+
+.A-6 {
+    opacity: 0;
+    animation: aniPlaneA 72s linear 42s infinite forwards;
+}
+
+.A-7 {
+    opacity: 0;
+    animation: aniPlaneA 72s linear 50s infinite forwards;
+}
+
+.A-8 {
+    opacity: 0;
+    animation: aniPlaneA 72s linear 58s infinite forwards;
+}
+
+.A-9 {
+    opacity: 0;
+    animation: aniPlaneA 72s linear 66s infinite forwards;
+}
+
+@keyframes aniPlaneA {
+  0% {
+  opacity: 0;
+  }
+  1% {
+      opacity:.8;
+  }
+  2% {
+    opacity: 1;
+  }
+  3% {
+      opacity:.8;
+  }
+  4% {
+    opacity: 0;
+  }
+}
+
+
+@keyframes aniPlaneB {
+    0% {
+        opacity: 0;
+    }
+
+    1% {
+        opacity: 1;
+    }
+
+    2% {
+        opacity: 0;
+    }
+}
+
+
+    .B-1 {
+        opacity: 0;
+        animation: aniPlaneB 29s linear 2s infinite forwards;
+    }
+
+    .B-2 {
+        opacity: 0;
+        animation: aniPlaneB 29s linear 5s infinite forwards;
+    }
+
+    .B-3 {
+        opacity: 0;
+        animation: aniPlaneB 29s linear 8s infinite forwards;
+    }
+
+    .B-4 {
+        opacity: 0;
+        animation: aniPlaneB 29s linear 11s infinite forwards;
+    }
+
+    .B-5 {
+        opacity: 0;
+        animation: aniPlaneB 29s linear 14s infinite forwards;
+    }
+
+    .B-6 {
+        opacity: 0;
+        animation: aniPlaneB 29s linear 17s infinite forwards;
+    }
+
+    .B-7 {
+        opacity: 0;
+        animation: aniPlaneB 29s linear 20s infinite forwards;
+    }
+
+    .B-8 {
+        opacity: 0;
+        animation: aniPlaneB 29s linear 23s infinite forwards;
+    }
+
+    .B-9 {
+        opacity: 0;
+        animation: aniPlaneB 29s linear 26s infinite forwards;
+    }

@@ -1,0 +1,19 @@
+<svg width="2931" height="2931" version="1.1" viewBox="0 0 775.54944 775.54944" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <radialGradient id="radialGradient30" cx="0" cy="0" r="1" gradientTransform="matrix(387.8 0 0 387.8 -499.3 -62)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#6dcff6" offset="0"/>
+   <stop stop-color="#0071bc" offset=".737"/>
+   <stop stop-color="#0071bc" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g transform="translate(887 449.8)">
+  <path d="m-887 325.8h775.5v-775.5h-775.5z" style="fill:url(#radialGradient30);stroke-width:.1293"/>
+  <g stroke-miterlimit="10">
+   <path d="m-486.5-545.6c178.3 230 271.4 662.4 108.5 1005" style="fill:none;stroke-dasharray:11.63324145;stroke-miterlimit:10;stroke-width:2.585;stroke:#fff"/>
+   <path d="m-1012 272.5c216.9-193.9 662.8-388.4 1092-283.4" style="fill:none;stroke-dasharray:11.63324145;stroke-miterlimit:10;stroke-width:2.585;stroke:#fff"/>
+   <path d="m-637.8-520.3c-166.5 249.5-244.1 518-30.86 895.8" style="fill:none;stroke-dasharray:11.63324145;stroke-miterlimit:10;stroke-width:2.585;stroke:#fff"/>
+   <path d="m-880.2-433.7c213.1 493.4 649.2 681.5 1174 626.6" style="fill:none;stroke-dasharray:11.6371192, 11.6371192;stroke-miterlimit:10;stroke-width:2.585;stroke:#fff"/>
+   <path d="m-1018-375.2c157 118.5 744.5 172.8 1098-88.93" style="fill:none;stroke-dasharray:11.63324145;stroke-miterlimit:10;stroke-width:2.585;stroke:#fff"/>
+  </g>
+ </g>
+</svg>

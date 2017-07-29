@@ -1,0 +1,42 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0 0;
+}
+
+.container {
+    height: 100%;
+}
+
+svg {
+    height: 100%;
+    width: 100%;
+}
+
+.skybg {
+    position: relative;
+    height: 100vh;
+    width: auto;
+    overflow: hidden;
+}
+
+.square {
+	height: 25px;
+	width: 25px;
+	background: red;
+	position: relative;
+	margin: 1px;
+}
+
+.motion-path {
+position: relative;
+  width: 256px;
+  margin: auto;
+}
+
+.follow-path {
+  position: absolute;
+  top: -9px;
+  left: -9px;
+}
