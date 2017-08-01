@@ -18,6 +18,9 @@ body {
 }
 
 svg {
-    display: inline-block;
+    position: absolute;
+}
+
+svg#planeA {
     position: absolute;
 }
